@@ -7,7 +7,7 @@
 
 <ul>
   
-  <li>🔭 I’m currently on data driven apps.</li>
+  <li>🔭 I’m currently working on data driven apps.</li>
   <li>👯 I’m looking to collaborate on open source tools for data science and machine learning.</li>
   <li>💬 Ask me about Software Engineering, Machine Learning and Data Science.</li>
   <li>📫 How to reach me:  <a href="https://www.linkedin.com/in/santiagoncalves/" target="_blank">Linkedin</a>, <a href="https://twitter.com/SantiagoGonca14" target="_blank">Twitter</a>,  Email (<a href="mailto:santi.goncalves.14@gmail.com">santi.goncalves.14@gmail.com</a>).</li>
