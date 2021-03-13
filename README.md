@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Hi my name is Santiago Goncalves Moreira. I am a Software and Machine Learning Engineer. I use my coding and data science skills to build data driven products to solve problems.</p>
+<p>Hi my name is Santiago Goncalves Moreira. I am a Software and Machine Learning Engineer.</p>
 
 <strong>Strong Languages:</strong> Javascript and Python
 
