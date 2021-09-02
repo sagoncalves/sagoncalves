@@ -2,6 +2,8 @@
 
 <p>Hi my name is Santiago Goncalves Moreira. I am a Software and Machine Learning Engineer.</p>
 
+<p>Check out my latest articles on Medium <a href="https://medium.com/@sgoncalves" target="_blank">here.</a>
+
 <strong>Strong Languages:</strong> Javascript and Python
 
 
