@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <p>Hi my name is Santiago Goncalves Moreira. I am a Software and Machine Learning Engineer.</p>
 
